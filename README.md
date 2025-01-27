@@ -1,4 +1,4 @@
-"# Middle High German Text Collection (MHDBDB)"
+# Middle High German Text Collection (MHDBDB)
 
 ## Übersicht
 
